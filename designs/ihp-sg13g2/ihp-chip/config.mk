@@ -21,7 +21,7 @@ export TNS_END_PERCENT = 100
 export SYNTH_MEMORY_MAX_BITS = 16384
 
 # Allow routing on the TopMetal layers, for the padring connections
-export MAX_ROUTING_LAYER = TopMetal2
+export MAX_ROUTING_LAYER = TopMetal1
 
 # Following exports should be part of platforms/ihp-sg13g2/config.mk and
 # might be obsolete in the future.
